@@ -166,7 +166,7 @@ header .navbar {
 	.navbar .navbar-nav .nav-link.active,
 	.navbar .navbar-nav .nav-link.show,
 	.navbar .navbar-nav .show>.nav-link {
-		color: #f48840!important;
+		color: #0104b3!important;
 		border-bottom: none!important;
 		padding-bottom: 15px;
 	}
